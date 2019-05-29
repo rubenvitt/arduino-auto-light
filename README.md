@@ -3,7 +3,7 @@ Arduino Sketch for automated lightning (f.e. light-chain) with a movement-detect
 
 ## what's this?
 After uploading this sketch you have an automated light. 
-The light is on, when it's dark and someone/something is moving around this light and go off after a count of shinings (f.e. 5x20min).
+The light is on, when it's dark and someone/something is moving around this light and is going off after a count of shinings (f.e. 5x20min).
 
 
 
